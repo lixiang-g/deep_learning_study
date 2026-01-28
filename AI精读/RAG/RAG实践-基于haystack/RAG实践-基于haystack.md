@@ -1,4 +1,5 @@
 # 一个基础的RAG都需要什么？
+![图片](./images/essential_rag.png)
 
 ## 数据导入&转换&切分&导入
 ![图片](./images/data_import.png)
